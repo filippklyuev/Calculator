@@ -1,5 +1,4 @@
 # Calculator
-Simple calculator
 
 ### Compilation
 Is compiled in Linux/Windows using 
